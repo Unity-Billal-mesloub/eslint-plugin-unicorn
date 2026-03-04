@@ -5,7 +5,7 @@
 
 > More than 100 powerful ESLint rules
 
-You might want to check out [XO](https://github.com/xojs/xo), which includes this plugin.
+You might want to check out [XO](https://github.com/Unity-Billal-mesloub/xo), which includes this plugin.
 
 [**Propose or contribute a new rule ➡**](.github/contributing.md)
 
@@ -49,9 +49,9 @@ export default [
 <!-- Do not manually modify this list. Run: `npm run fix:eslint-docs` -->
 <!-- begin auto-generated rules list -->
 
-💼 [Configurations](https://github.com/sindresorhus/eslint-plugin-unicorn#recommended-config) enabled in.\
-✅ Set in the `recommended` [configuration](https://github.com/sindresorhus/eslint-plugin-unicorn#recommended-config).\
-☑️ Set in the `unopinionated` [configuration](https://github.com/sindresorhus/eslint-plugin-unicorn#recommended-config).\
+💼 [Configurations](https://github.com/Unity-Billal-mesloub/eslint-plugin-unicorn#recommended-config) enabled in.\
+✅ Set in the `recommended` [configuration](https://github.com/Unity-Billal-mesloub/eslint-plugin-unicorn#recommended-config).\
+☑️ Set in the `unopinionated` [configuration](https://github.com/Unity-Billal-mesloub/eslint-plugin-unicorn#recommended-config).\
 🔧 Automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/user-guide/command-line-interface#--fix).\
 💡 Manually fixable by [editor suggestions](https://eslint.org/docs/latest/use/core-concepts#rule-suggestions).
 
@@ -251,13 +251,9 @@ export default [
 
 ## Maintainers
 
-- [Sindre Sorhus](https://github.com/sindresorhus)
-- [Fisker Cheung](https://github.com/fisker)
-- [Bryan Mishkin](https://github.com/bmish)
-- [futpib](https://github.com/futpib)
+- [Billal-mesloub](https://github.com/Unity-Billal-mesloub)
 
 ### Former
 
-- [Jeroen Engels](https://github.com/jfmengels)
-- [Sam Verschueren](https://github.com/SamVerschueren)
-- [Adam Babcock](https://github.com/MrHen)
+- [Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+
