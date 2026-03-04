@@ -15,7 +15,7 @@ You might want to check out [XO](https://github.com/Unity-Billal-mesloub/xo), wh
 npm install --save-dev eslint eslint-plugin-unicorn
 ```
 
-**Requires ESLint `>=9.20.0`, [flat config](https://eslint.org/docs/latest/use/configure/configuration-files), and [ESM](https://gist.github.com/Unity-Billal-mesloub/a39789f98801d908bbc7ff3ecc99d99c#how-can-i-make-my-typescript-project-output-esm).**
+**Requires ESLint `>=9.20.0`, [flat config](https://eslint.org/docs/latest/use/configure/configuration-files), and [ESM](https://gist.github.com/Unity-Billal-mesloub/c#how-can-i-make-my-typescript-project-output-esm).**
 
 ## Usage
 
